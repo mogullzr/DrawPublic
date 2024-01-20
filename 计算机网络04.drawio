@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T06:35:35.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.21" etag="hEroxfIq9cA526-pWs6r" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T06:37:16.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Mvpx0ksFH2CP_1FAilUr" version="22.1.21" type="github">
   <diagram name="第 1 页" id="FmZaTQvu-8Bwsi0qe9ST">
-    <mxGraphModel>
+    <mxGraphModel dx="2240" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n14StDJgJUtBlroQfTfn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n14StDJgJUtBlroQfTfn-1" target="n14StDJgJUtBlroQfTfn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n14StDJgJUtBlroQfTfn-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="-70" y="212.5" width="88.89" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n14StDJgJUtBlroQfTfn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n14StDJgJUtBlroQfTfn-2" target="n14StDJgJUtBlroQfTfn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n14StDJgJUtBlroQfTfn-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="940" y="207.5" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n14StDJgJUtBlroQfTfn-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="206.25" width="110" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="n14StDJgJUtBlroQfTfn-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-45.55000000000001" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n14StDJgJUtBlroQfTfn-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
